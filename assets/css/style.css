@@ -287,3 +287,18 @@ section {
     display: flex;
 }
   /* REACH OUT STYLES END */
+
+  /* Media query for smaller desktop screens and smaller */
+  @media screen and (max-width: 980px) {
+  
+  }
+
+  /* Media query for tablets and smaller */
+  @media screen and (max-width: 768px) {
+  
+  }
+
+  /* Media query for mobile phones and smaller */
+  @media screen and (max-width: 575px) {
+     
+  }
